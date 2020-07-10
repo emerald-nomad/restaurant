@@ -6,4 +6,11 @@ export default StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
   },
+  signInBtnContainer: {
+    width: "75%",
+  },
+  signInBtn: {
+    backgroundColor: "green",
+    borderRadius: 100,
+  },
 });
