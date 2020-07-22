@@ -73,17 +73,3 @@ export default StyleSheet.create({
     fontSize: "30px",
   },
 });
-const fontWeights = [
-  "normal",
-  "bold",
-  "100",
-  "200",
-  "300",
-  "400",
-  "500",
-  "600",
-  "700",
-  "800",
-  "900",
-];
-const textAlignments = ["auto", "left", "right", "center", "justify"];
