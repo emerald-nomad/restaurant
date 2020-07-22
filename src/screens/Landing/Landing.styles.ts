@@ -32,7 +32,7 @@ export default StyleSheet.create({
     fontStyle: "normal",
     paddingBottom: 20,
     textAlign: "center",
-    fontSize: "20px",
+    fontSize: 20,
   },
   oneClick: {
     textAlign: "center",
