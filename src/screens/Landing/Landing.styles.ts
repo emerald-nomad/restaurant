@@ -12,6 +12,9 @@ export default StyleSheet.create({
   signUpContainer: {
     paddingTop: 20,
   },
+  signUpBtnContainer: {
+    paddingTop: 20,
+  },
 
   signInBtn: {
     backgroundColor: "green",
